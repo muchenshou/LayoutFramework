@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LayoutFramework</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<array 
+	    name="bottom_images">
+	    <item name="@drawable/ic_launcher"></item>
+	    <item name="@drawable/ic_launcher"></item>
+	    <item name="@drawable/ic_launcher"></item>
+	    <item name="@drawable/ic_launcher"></item>
+	</array>
+</resources>

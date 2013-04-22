@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="bottom_tab">
+        <attr name="number" format="integer" />
+        <attr name="title_list" format="reference" />
+        <attr name="style">
+            <enum name="ONLY_TEXT" value="0"></enum>
+            <enum name="ONLY_IMAGE" value="1"></enum>
+            <enum name="IAMGE_TEXT" value="2"></enum>
+        </attr>
+        <attr name="background" format="reference|color"></attr>
+    </declare-styleable>
+</resources>
