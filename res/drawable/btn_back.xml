@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:state_pressed="false">
+        <bitmap android:src="@drawable/more_book_button_f"
+            android:tileMode="repeat"></bitmap>
+    </item>
+	<item android:state_pressed="true">
+	    <bitmap android:src="@drawable/more_book_button"
+            android:tileMode="repeat"></bitmap>
+	</item>
+</selector>

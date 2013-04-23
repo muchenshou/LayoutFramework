@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="bottom_images">
+        <item>@drawable/btn_back</item>
+        <item>@drawable/btn_back</item>
+        <item>@drawable/btn_back</item>
+        <item>@drawable/btn_back</item>
+    </array>
+
+</resources>
